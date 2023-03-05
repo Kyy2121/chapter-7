@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "Ghani Esa Setya Mahdavikia",
+        "password": null,
+        "database": "chapter-7",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    },
+    "test": {
+        "username": "Ghani Esa Setya Mahdavikia",
+        "password": null,
+        "database": "chapter-7",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    },
+    "production": {
+        "username": "Ghani Esa Setya Mahdavikia",
+        "password": null,
+        "database": "chapter-7",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    }
+}
